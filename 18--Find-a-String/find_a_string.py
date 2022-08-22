@@ -13,3 +13,19 @@ if __name__ == '__main__':
     sub_string = input().strip()
     count = count_substring(string, sub_string)
     print(count)
+
+
+#Another possible solution way
+
+"""
+big_str = input()
+small_str = input()
+small_len = len(small_str)
+count = 0
+
+for i in range(len(big_str[:-small_len + 1])):
+    if(big_str[i:i+small_len] == small_str):
+        count += 1
+
+print(count)
+"""
