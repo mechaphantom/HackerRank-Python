@@ -77,6 +77,7 @@ mutate_string has the following parameters:
 **Input Format**
 
 The first line contains a string, *string*.
+
 The next line contains an integer *position*, the index location and a string *character*, separated by a space.
 
 **Sample Input 0**
