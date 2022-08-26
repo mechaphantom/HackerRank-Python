@@ -1,5 +1,7 @@
 ## Python - Find Angle MBC
 
+![mbc](https://user-images.githubusercontent.com/57845882/186983038-2239a909-4075-4b63-99e4-20476532a781.png)
+
 *ABC* is a right triangle, 90° at *B*. Therefore, ∠*ABC* = 90°.
 
 Point *M* is the midpoint of hypotenuse *AC*.
