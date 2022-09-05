@@ -39,7 +39,7 @@ Output a single integer, your total happiness.
 1
 ```
 
-**Sample Output 0**
+**Explanation**
 
 You gain *1* unit of happiness for elements *3* and *1* in set *A*. You lose *1* unit for *5* in set *B*. The element  in set  does not exist in the array so it is not included in the calculation.
 
